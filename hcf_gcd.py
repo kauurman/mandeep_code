@@ -9,7 +9,7 @@ def findHCF(x,y):
     return hcf 
 
 x = 32
-y = 30
+y = 3
 
 
 print ("the hcf of the given two number is ", findHCF(12,30 ))
